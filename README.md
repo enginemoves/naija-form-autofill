@@ -1,7 +1,7 @@
 # naija-form-autofill
 A Chrome extension that autofills online forms with realistic Nigerian data including names, phone numbers, addresses emails, and more. Built for QA engineers and testers working on Nigerian web platforms. Includes a floating autofill button and instant form clearing.
 
-# 🇳🇬 Nigerian Autofill – Chrome Extension
+# Nigerian Autofill – Chrome Extension
 
 A simple but powerful Chrome extension that **autofills forms** with realistic Nigerian user data for **QA, testing, and form validation purposes**.
 
